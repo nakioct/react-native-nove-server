@@ -1,0 +1,27 @@
+{
+    "name": "react-native-nove-server",
+    "version": "1.0.0",
+    "description": "this is designed for nove server",
+    "homepage": "https://github.com/nakioct/react-native-nove-server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-nove-server"
+    ],
+    "author": {
+        "name": "nove",
+        "email": "nove@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nakioct/react-native-nove-server.git"
+    },
+    "peerDependencies": {
+        "react": ">=16.13.1",
+        "react-native": ">=0.63.3"
+    }
+  }
+  
